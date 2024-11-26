@@ -1,5 +1,4 @@
 # Slot-Machine-Simulator
-# Slot Machine Simulation Project
 
 ## Overview
 The Slot Machine Simulation Project explores the design and mathematics behind creating engaging and balanced slot machine games. This project focuses on applying probability theory, combinatorics, and statistical analysis to simulate the mechanics of a slot machine. By calculating key metrics such as the **Return to Player (RTP)** and analyzing payout structures, the project provides a foundation for understanding how slot games operate and how to optimize their performance.
